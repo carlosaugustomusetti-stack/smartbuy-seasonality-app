@@ -3,7 +3,9 @@
 An interactive **Streamlit + Plotly** web app that measures how seasonal each of an online shop's
 **100 product categories** is, when it peaks, and which categories to plan campaigns for first.
 
-Built as the final project of the *AI in Data Analytics* module of my Data Analytics bootcamp.
+Built as a group project, the final project of the *AI in Data Analytics* module of our Data Analytics bootcamp.
+
+**Team:** Carlos Musetti · Lorenz Schneider · Majid  · Prasad Natuskar
 
 ---
 
@@ -96,3 +98,11 @@ choose `app.py` as the main file, and deploy.
 ## Tech stack
 
 Python · pandas · NumPy · Plotly Express · Streamlit (`st.navigation`, `st.cache_data`, session state, custom CSS)
+
+## Disclaimer
+
+This was a group project by **Carlos Musetti, Lorenz Schneider, Majid and Prasad Natuskar**.
+
+The design and the code of this app were created with help from **Claude** (Anthropic's AI assistant).
+We directed the project, made the analytical decisions, and reviewed, tested and adapted the AI-assisted
+output. Responsibility for the final result and any remaining errors is ours.
