@@ -3,7 +3,7 @@
 An interactive **Streamlit + Plotly** web app that measures how seasonal each of an online shop's
 **100 product categories** is, when it peaks, and which categories to plan campaigns for first.
 
-Built as a group project, the final project of the *AI in Data Analytics* module of our Data Analytics bootcamp.
+Built as a group project in the *AI in Data Analytics* module of our Data Analytics bootcamp.
 
 **Team:** Carlos Musetti · Lorenz Schneider · Majid  · Prasad Natuskar
 
